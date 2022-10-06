@@ -1,21 +1,15 @@
 # Weather App
 A Quiz app project that will help you learn more about Android XML and Intents Android Networking created by [TutorialsEu](https://www.tutorials.eu)
 <table>
-  <tr>
-    <td>
+   <tr>
+     <td>
 
-    <img width="35%" src="screenshots/welcome.png">
-    </td>
+   <img width="30%" src="screenshoots/welcome.png">
 
-    <td>
+   <img width="30%" src="screenshoots/page2.png">
 
-   <img width="35%" src="screenshots/page2.png">
-   </td>
-
-   <td>
-
-   <img width="35%" src="screenshots/result.png">
-   </td>
+   <img width="30%" src="screenshoots/result.png">
+ </td>
 
   </tr>
 </table>
