@@ -8,6 +8,25 @@ A general repository for all projects used for the Tiny Kotlin Project Book crea
 ## [Chapter Three: More on AndroidXML Views: Project –2 –The Quiz App-Part 1](https://github.com/tutorialseu/TheQuizApp)
 
 ## [Chapter Four: Intents in Android: Project –2 –The Quiz App–Part 2](https://github.com/tutorialseu/TheQuizApp)
+<table>
+  <tr>
+    <td>
+
+    <img width="35%" src="screenshots/welcome.png">
+    </td>
+
+    <td>
+
+   <img width="35%" src="screenshots/page2.png">
+   </td>
+
+   <td>
+
+   <img width="35%" src="screenshots/result.png">
+   </td>
+
+  </tr>
+</table>
 
 ## [Chapter Five: Android Fragments and ViewPager2 –Project 3 –Imager Slider App](https://github.com/tutorialseu/Image-Slider-app)
 <table>
