@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_width="match_parent">
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+tools:context=".MainActivity">
+
+
+<androidx.constraintlayout.widget.Guideline
+    android:id="@+id/guideline"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    app:layout_constraintGuide_begin="100dp" />
+
+
+<androidx.viewpager2.widget.ViewPager2
+    android:id="@+id/viewpager"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="horizontal"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/guideline" />
+
+
+<com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+    android:id="@+id/dotsIndicator"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    app:dotsColor="@color/white"
+    app:dotsCornerRadius="8dp"
+    app:dotsSize="16dp"
+    app:dotsSpacing="4dp"
+    app:dotsWidthFactor="2.5"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/viewpager"
+    app:progressMode="true"
+    app:selectedDotColor="@android:color/holo_blue_light" />
+
+<Button
+    android:id="@+id/button_next"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="16dp"
+    android:layout_marginEnd="32dp"
+    android:layout_marginBottom="32dp"
+    android:backgroundTint="@android:color/holo_blue_light"
+    android:text="Next"
+    android:textColor="@color/white"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toEndOf="@id/button_prev"
+    app:layout_constraintTop_toBottomOf="@id/dotsIndicator" />
+
+<Button
+    android:id="@+id/button_prev"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="16dp"
+    android:layout_marginEnd="32dp"
+    android:layout_marginBottom="32dp"
+    android:backgroundTint="@android:color/holo_blue_light"
+    android:text="Previous"
+    android:textColor="@color/white"
+    app:layout_constraintEnd_toStartOf="@id/button_next"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/dotsIndicator" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,4 +1,4 @@
-# Tiny-Kotlin-Projects 
+# Tiny-Kotlin-Projects
 A general repository for all projects used for the Tiny Kotlin Project Book created by [TutorialsEu](https://www.tutorials.eu)
 
 ## Chapter One:Introductionand Getting Started
@@ -10,6 +10,21 @@ A general repository for all projects used for the Tiny Kotlin Project Book crea
 ## [Chapter Four: Intents in Android: Project –2 –The Quiz App–Part 2](https://github.com/tutorialseu/TheQuizApp)
 
 ## [Chapter Five: Android Fragments and ViewPager2 –Project 3 –Imager Slider App](https://github.com/tutorialseu/Image-Slider-app)
+<table>
+  <tr>
+    <td>
+
+<img width="30%" src="screenshots/screen_1.png">
+</td>
+
+   <td>
+
+   <img width="30%" src="screenshots/slider.gif">
+   </td>
+
+  </tr>
+</table>
+<img width="35%" src="screenshots/screen_1.png">
 
 ## [Chapter 6: Networking in Android with Retrofit–Project 4-Weather App](https://github.com/tutorialseu/Tiny-Kotlin-Projects/tree/main/Chapter%20five%20-Weather%20App)
 <img width="35%" src="Chapter five -Weather App/screenshots/main.png">
@@ -25,4 +40,3 @@ A general repository for all projects used for the Tiny Kotlin Project Book crea
 ## [Chapter 11: Navigation in Jetpack Compose -Project 8-Workout App]()
 
 ## [Chapter 12: Room Database with Jetpack Compose-Project 9-Wish List App]()
-
