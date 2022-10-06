@@ -28,25 +28,21 @@ A general repository for all projects used for the Tiny Kotlin Project Book crea
   </tr>
 </table>
 
-## [Chapter Five: Android Fragments and ViewPager2 –Project 3 –Imager Slider App](https://github.com/tutorialseu/Image-Slider-app)
+## [Chapter Five: Android Fragments and ViewPager2 –Project 3 –Imager Slider App](https://github.com/tutorialseu/Tiny-Kotlin-Projects/tree/main/Chapter%20five-%20Image%20Slider%20App)
 <table>
   <tr>
     <td>
 
-<img width="30%" src="screenshots/screen_1.png">
+<img width="35%" src="Chapter five- Image Slider App/screenshots/screen_1.png">
+
+<img width="35%" src="Chapter five- Image Slider App/screenshots/slider.gif">
 </td>
-
-   <td>
-
-   <img width="30%" src="screenshots/slider.gif">
-   </td>
 
   </tr>
 </table>
-<img width="35%" src="screenshots/screen_1.png">
 
-## [Chapter 6: Networking in Android with Retrofit–Project 4-Weather App](https://github.com/tutorialseu/Tiny-Kotlin-Projects/tree/main/Chapter%20five%20-Weather%20App)
-<img width="35%" src="Chapter five -Weather App/screenshots/main.png">
+## [Chapter 6: Networking in Android with Retrofit–Project 4-Weather App](https://github.com/tutorialseu/Tiny-Kotlin-Projects/tree/main/Chapter%20Six%20-Weather%20App)
+<img width="35%" src="Chapter Six -Weather App/screenshots/main.png">
 
 ## [Chapter 7: Google Firebase Services–Project 5 -Tour Guide]()
 

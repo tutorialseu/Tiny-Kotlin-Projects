@@ -5,14 +5,10 @@ An Image Slider app project that will help you understand Android ViewPager 2 an
   <tr>
     <td>
 
-<img width="30%" src="screenshots/screen_1.png">
+<img width="35%" src="screenshots/screen_1.png">
+
+<img width="35%" src="screenshots/slider.gif">
 </td>
-
-   <td>
-
-   <img width="30%" src="screenshots/slider.gif">
-   </td>
 
   </tr>
 </table>
-<img width="35%" src="screenshots/screen_1.png">
