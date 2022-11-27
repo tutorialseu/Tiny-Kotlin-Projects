@@ -1,0 +1,48 @@
+eu.tutorials.wishlistapp-ui-1.1.0-beta01-0 /Users/user/.gradle/caches/transforms-3/078f69ff13d584175d673beb365cef10/transformed/ui-1.1.0-beta01/res
+eu.tutorials.wishlistapp-lifecycle-livedata-core-2.5.1-1 /Users/user/.gradle/caches/transforms-3/0a46bb84b510d0e96ee9c6416ad763af/transformed/lifecycle-livedata-core-2.5.1/res
+eu.tutorials.wishlistapp-runtime-saveable-1.1.0-beta01-2 /Users/user/.gradle/caches/transforms-3/134beb94595b5a66dc0d535faffbd02d/transformed/runtime-saveable-1.1.0-beta01/res
+eu.tutorials.wishlistapp-core-ktx-1.7.0-3 /Users/user/.gradle/caches/transforms-3/1451a5009a9ed10756fe1927e08b33e7/transformed/core-ktx-1.7.0/res
+eu.tutorials.wishlistapp-animation-1.1.0-beta01-4 /Users/user/.gradle/caches/transforms-3/1605b5503758954f9a05e73dd04da518/transformed/animation-1.1.0-beta01/res
+eu.tutorials.wishlistapp-material-ripple-1.1.0-beta01-5 /Users/user/.gradle/caches/transforms-3/23188de6b32449eb9769a57cc9235fa5/transformed/material-ripple-1.1.0-beta01/res
+eu.tutorials.wishlistapp-ui-unit-1.1.0-beta01-6 /Users/user/.gradle/caches/transforms-3/27d190f3b1902393acb466fca787421e/transformed/ui-unit-1.1.0-beta01/res
+eu.tutorials.wishlistapp-ui-tooling-preview-1.1.0-beta01-7 /Users/user/.gradle/caches/transforms-3/29430892449998f036c5fa8bab9f693a/transformed/ui-tooling-preview-1.1.0-beta01/res
+eu.tutorials.wishlistapp-core-1.8.0-8 /Users/user/.gradle/caches/transforms-3/2ff1acf316db0d4756f2c2cf64f18f7a/transformed/core-1.8.0/res
+eu.tutorials.wishlistapp-navigation-compose-2.5.3-9 /Users/user/.gradle/caches/transforms-3/3c8cb40b0e87298d93ba60475ff679a4/transformed/navigation-compose-2.5.3/res
+eu.tutorials.wishlistapp-foundation-layout-1.1.0-beta01-10 /Users/user/.gradle/caches/transforms-3/408aea388ab4a6c6923cb2596ea2924c/transformed/foundation-layout-1.1.0-beta01/res
+eu.tutorials.wishlistapp-navigation-runtime-ktx-2.5.3-11 /Users/user/.gradle/caches/transforms-3/40ccbb7ed2467b445600d8d6cdbebe28/transformed/navigation-runtime-ktx-2.5.3/res
+eu.tutorials.wishlistapp-lifecycle-viewmodel-compose-2.5.1-12 /Users/user/.gradle/caches/transforms-3/441ba86df79e9242e505fce24041e9e2/transformed/lifecycle-viewmodel-compose-2.5.1/res
+eu.tutorials.wishlistapp-lifecycle-viewmodel-savedstate-2.5.1-13 /Users/user/.gradle/caches/transforms-3/55b2b866ff183e4626fba2e7a48914e8/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+eu.tutorials.wishlistapp-navigation-common-2.5.3-14 /Users/user/.gradle/caches/transforms-3/56ee50f72fa96c8bd5318e0b90ce536c/transformed/navigation-common-2.5.3/res
+eu.tutorials.wishlistapp-navigation-runtime-2.5.3-15 /Users/user/.gradle/caches/transforms-3/5d0be0c216e6240b9afbb91f23decbc0/transformed/navigation-runtime-2.5.3/res
+eu.tutorials.wishlistapp-ui-test-manifest-1.1.0-beta01-16 /Users/user/.gradle/caches/transforms-3/685fdf3fc1a2dea3c27ddd2e7c5d9464/transformed/ui-test-manifest-1.1.0-beta01/res
+eu.tutorials.wishlistapp-runtime-1.1.0-beta01-17 /Users/user/.gradle/caches/transforms-3/6b3cd60b24f15045c4d9c4e633c7b303/transformed/runtime-1.1.0-beta01/res
+eu.tutorials.wishlistapp-ui-graphics-1.1.0-beta01-18 /Users/user/.gradle/caches/transforms-3/6b9cee1b54aeb446a2f19d73aae7a029/transformed/ui-graphics-1.1.0-beta01/res
+eu.tutorials.wishlistapp-animation-core-1.1.0-beta01-19 /Users/user/.gradle/caches/transforms-3/6f455dab4ace15f651b3fced75db74b7/transformed/animation-core-1.1.0-beta01/res
+eu.tutorials.wishlistapp-startup-runtime-1.0.0-20 /Users/user/.gradle/caches/transforms-3/8199d6d37802a0f77d7de62ed9f15bcc/transformed/startup-runtime-1.0.0/res
+eu.tutorials.wishlistapp-material-1.1.0-beta01-21 /Users/user/.gradle/caches/transforms-3/84d0bcdad8cee4e676b598f5d0731b76/transformed/material-1.1.0-beta01/res
+eu.tutorials.wishlistapp-activity-ktx-1.5.1-22 /Users/user/.gradle/caches/transforms-3/8583a4da9a6d304d45db6ecb7ebf3ddb/transformed/activity-ktx-1.5.1/res
+eu.tutorials.wishlistapp-lifecycle-runtime-ktx-2.5.1-23 /Users/user/.gradle/caches/transforms-3/86063e16778e4c32aec74a4c546824ae/transformed/lifecycle-runtime-ktx-2.5.1/res
+eu.tutorials.wishlistapp-ui-geometry-1.1.0-beta01-24 /Users/user/.gradle/caches/transforms-3/89a0e1d997d7bbe9db9a23a3d8722d68/transformed/ui-geometry-1.1.0-beta01/res
+eu.tutorials.wishlistapp-ui-tooling-data-1.1.0-beta01-25 /Users/user/.gradle/caches/transforms-3/9624060a7d1491f663d6636a3b88abe5/transformed/ui-tooling-data-1.1.0-beta01/res
+eu.tutorials.wishlistapp-activity-1.5.1-26 /Users/user/.gradle/caches/transforms-3/a2fca5af4c4f123db75e79b10ae8818f/transformed/activity-1.5.1/res
+eu.tutorials.wishlistapp-savedstate-1.2.0-27 /Users/user/.gradle/caches/transforms-3/a8b846d811e9d7863d71d659d5237521/transformed/savedstate-1.2.0/res
+eu.tutorials.wishlistapp-lifecycle-viewmodel-ktx-2.5.1-28 /Users/user/.gradle/caches/transforms-3/ad8ededf9dcbe9031ee35c99d36a3b64/transformed/lifecycle-viewmodel-ktx-2.5.1/res
+eu.tutorials.wishlistapp-activity-compose-1.5.1-29 /Users/user/.gradle/caches/transforms-3/b6754da6ba5cf5ccb78baca9b3f9ab47/transformed/activity-compose-1.5.1/res
+eu.tutorials.wishlistapp-annotation-experimental-1.1.0-30 /Users/user/.gradle/caches/transforms-3/bbf08dc0b3928c59ad45c2cd9117d57d/transformed/annotation-experimental-1.1.0/res
+eu.tutorials.wishlistapp-ui-text-1.1.0-beta01-31 /Users/user/.gradle/caches/transforms-3/cd6e97bf70fe4ebc78e21a98df238470/transformed/ui-text-1.1.0-beta01/res
+eu.tutorials.wishlistapp-material-icons-core-1.1.0-beta01-32 /Users/user/.gradle/caches/transforms-3/cd9c8563a7f0087043aef2170f1e99cb/transformed/material-icons-core-1.1.0-beta01/res
+eu.tutorials.wishlistapp-foundation-1.1.0-beta01-33 /Users/user/.gradle/caches/transforms-3/d92cfcef89204b8e97afb237b13afb60/transformed/foundation-1.1.0-beta01/res
+eu.tutorials.wishlistapp-profileinstaller-1.1.0-beta01-34 /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/res
+eu.tutorials.wishlistapp-ui-tooling-1.1.0-beta01-35 /Users/user/.gradle/caches/transforms-3/ec4798d88e4c30bae0b64d08e8cff707/transformed/ui-tooling-1.1.0-beta01/res
+eu.tutorials.wishlistapp-savedstate-ktx-1.2.0-36 /Users/user/.gradle/caches/transforms-3/ed7966c2c3ef5581e6b80739aac97952/transformed/savedstate-ktx-1.2.0/res
+eu.tutorials.wishlistapp-lifecycle-runtime-2.5.1-37 /Users/user/.gradle/caches/transforms-3/ee817b8d67a7920e693f6674c17a5283/transformed/lifecycle-runtime-2.5.1/res
+eu.tutorials.wishlistapp-lifecycle-viewmodel-2.5.1-38 /Users/user/.gradle/caches/transforms-3/f0d3583d84ead01a115c0e042feb848d/transformed/lifecycle-viewmodel-2.5.1/res
+eu.tutorials.wishlistapp-navigation-common-ktx-2.5.3-39 /Users/user/.gradle/caches/transforms-3/f61677c9795eb459c7b11f6636bdc426/transformed/navigation-common-ktx-2.5.3/res
+eu.tutorials.wishlistapp-ui-util-1.1.0-beta01-40 /Users/user/.gradle/caches/transforms-3/fef42bcc52481955175e9bf7f2d06939/transformed/ui-util-1.1.0-beta01/res
+eu.tutorials.wishlistapp-resValues-41 /Users/user/TKP/Chapter 11-WishListApp/master/app/build/generated/res/resValues/debug
+eu.tutorials.wishlistapp-rs-42 /Users/user/TKP/Chapter 11-WishListApp/master/app/build/generated/res/rs/debug
+eu.tutorials.wishlistapp-packageDebugResources-43 /Users/user/TKP/Chapter 11-WishListApp/master/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+eu.tutorials.wishlistapp-packageDebugResources-44 /Users/user/TKP/Chapter 11-WishListApp/master/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+eu.tutorials.wishlistapp-merged_res-45 /Users/user/TKP/Chapter 11-WishListApp/master/app/build/intermediates/merged_res/debug
+eu.tutorials.wishlistapp-debug-46 /Users/user/TKP/Chapter 11-WishListApp/master/app/src/debug/res
+eu.tutorials.wishlistapp-main-47 /Users/user/TKP/Chapter 11-WishListApp/master/app/src/main/res

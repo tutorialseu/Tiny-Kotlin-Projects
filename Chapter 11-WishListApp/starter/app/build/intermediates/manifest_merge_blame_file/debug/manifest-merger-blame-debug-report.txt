@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eu.tutorials.wishlistapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:6:5-27:19
+12        android:allowBackup="true"
+12-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] /Users/user/.gradle/caches/transforms-3/78d50868e448832206dedaa0c52e0a89/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:8:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:13:9-35
+21        android:theme="@style/Theme.WishListApp" >
+21-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:14:9-49
+22        <activity
+22-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:16:9-26:20
+23            android:name="eu.tutorials.wishlistapp.MainActivity"
+23-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:17:13-41
+24            android:exported="true"
+24-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:18:13-36
+25            android:label="@string/app_name"
+25-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:19:13-45
+26            android:theme="@style/Theme.WishListApp" >
+26-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:20:13-53
+27            <intent-filter>
+27-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:21:13-25:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:22:17-69
+28-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:22:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:24:17-77
+30-->/Users/user/TKP/Chapter 11-WishListApp/starter/app/src/main/AndroidManifest.xml:24:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->[androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/ec4798d88e4c30bae0b64d08e8cff707/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:25:9-27:39
+34            android:name="androidx.compose.ui.tooling.PreviewActivity"
+34-->[androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/ec4798d88e4c30bae0b64d08e8cff707/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:26:13-71
+35            android:exported="true" />
+35-->[androidx.compose.ui:ui-tooling:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/ec4798d88e4c30bae0b64d08e8cff707/transformed/ui-tooling-1.1.0-beta01/AndroidManifest.xml:27:13-36
+36        <activity
+36-->[androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/685fdf3fc1a2dea3c27ddd2e7c5d9464/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:25:9-27:39
+37            android:name="androidx.activity.ComponentActivity"
+37-->[androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/685fdf3fc1a2dea3c27ddd2e7c5d9464/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:26:13-63
+38            android:exported="true" />
+38-->[androidx.compose.ui:ui-test-manifest:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/685fdf3fc1a2dea3c27ddd2e7c5d9464/transformed/ui-test-manifest-1.1.0-beta01/AndroidManifest.xml:27:13-36
+39
+40        <provider
+40-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:26:9-34:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:27:13-67
+42            android:authorities="eu.tutorials.wishlistapp.androidx-startup"
+42-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:28:13-68
+43            android:exported="false" >
+43-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:29:13-37
+44            <meta-data
+44-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+45-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:32:17-85
+46                android:value="androidx.startup" />
+46-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:33:17-49
+47        </provider>
+48
+49        <receiver
+49-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:36:9-45:20
+50            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+50-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:37:13-76
+51            android:directBootAware="false"
+51-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:38:13-44
+52            android:enabled="true"
+52-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:39:13-35
+53            android:exported="true"
+53-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:40:13-36
+54            android:permission="android.permission.DUMP" >
+54-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:41:13-57
+55            <intent-filter>
+55-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:42:13-44:29
+56                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+56-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:43:17-91
+56-->[androidx.profileinstaller:profileinstaller:1.1.0-beta01] /Users/user/.gradle/caches/transforms-3/e3796ce92ce43aa6586cfb488ad5c02a/transformed/profileinstaller-1.1.0-beta01/AndroidManifest.xml:43:25-88
+57            </intent-filter>
+58        </receiver>
+59    </application>
+60
+61</manifest>

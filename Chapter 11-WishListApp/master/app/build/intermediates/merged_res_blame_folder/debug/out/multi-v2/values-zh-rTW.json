@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "eu.tutorials.wishlistapp-mergeDebugResources-44:/values-zh-rTW/values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-3/078f69ff13d584175d673beb365cef10/transformed/ui-1.1.0-beta01/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,258,345,436,514,588,672,750,825,890,955,1023,1091",
+                        "endColumns": "76,75,86,90,77,73,83,77,74,64,64,67,67,115",
+                        "endOffsets": "177,253,340,431,509,583,667,745,820,885,950,1018,1086,1202"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,258,345,436,514,588,672,750,825,890,955,1124,1192",
+                        "endColumns": "76,75,86,90,77,73,83,77,74,64,64,67,67,115",
+                        "endOffsets": "177,253,340,431,509,583,667,745,820,885,950,1018,1187,1303"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-3/2ff1acf316db0d4756f2c2cf64f18f7a/transformed/core-1.8.0/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "1023",
+                        "endColumns": "100",
+                        "endOffsets": "1119"
+                    }
+                }
+            ]
+        }
+    ]
+}

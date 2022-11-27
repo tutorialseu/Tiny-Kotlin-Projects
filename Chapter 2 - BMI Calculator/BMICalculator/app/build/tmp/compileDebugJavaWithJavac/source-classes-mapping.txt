@@ -1,0 +1,4 @@
+eu/tutorials/bmi_calculator/databinding/ActivityMainBinding.java
+ eu.tutorials.bmi_calculator.databinding.ActivityMainBinding
+eu/tutorials/bmi_calculator/BuildConfig.java
+ eu.tutorials.bmi_calculator.BuildConfig

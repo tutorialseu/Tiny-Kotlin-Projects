@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color app_bar_color
+color background_color
+color black
+color purple_200
+color purple_500
+color purple_700
+color status_bar_color
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_wish
+string added_a_wish
+string app_name
+string description
+string fill_all_fields
+string not_to_delete
+string search
+string title
+string update_wish
+string updated_a_wish
+style Theme.WishListApp
+xml backup_rules
+xml data_extraction_rules
