@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI-Calculator</string>
+    <string name="bmi_result">Your BMI result is %.2f \n%1s \n%2s</string>
+</resources>

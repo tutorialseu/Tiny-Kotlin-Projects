@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WishList</string>
+    <string name="update_wish">Update Wish</string>
+    <string name="add_wish">Add Wish</string>
+    <string name="search">Search</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="added_a_wish">Added a Wish</string>
+    <string name="updated_a_wish">Updated a Wish</string>
+    <string name="fill_all_fields">Kindly fill all the fields</string>
+    <string name="not_to_delete">Not to delete? \nSwipe back to right</string>
+</resources>
