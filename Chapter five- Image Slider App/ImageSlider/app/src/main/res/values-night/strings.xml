@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slider_iv">nature</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>

@@ -2,4 +2,7 @@
     <string name="app_name">ImageSlider</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slider_iv">nature</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 </resources>

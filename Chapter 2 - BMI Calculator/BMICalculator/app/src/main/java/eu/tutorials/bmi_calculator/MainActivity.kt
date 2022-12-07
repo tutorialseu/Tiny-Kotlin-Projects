@@ -62,13 +62,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun displayBMIResult(bmi: Double) {
 
-        var bmiLabel: String =""
-        var bmiDescription: String = ""
+        var bmiLabel =""
+        var bmiDescription  = ""
 
         when {
             bmi < 18.5 -> {
-                bmiLabel = "You are underweight"
-                bmiDescription = "Oops! You really need to take better care of yourself! Eat more!"
+                bmiLabel = getString(R.string.under_weight_label)
+                bmiDescription = "You should take better care of yourself! Eat more!"
             }
             bmi in 18.5..24.9 -> {
                 bmiLabel = "Normal"
@@ -76,11 +76,11 @@ class MainActivity : AppCompatActivity() {
             }
             bmi in 25.0..29.9 -> {
                 bmiLabel = "Overweight"
-                bmiDescription = "Oops! You really need to take care of yourself! Workout maybe!"
+                bmiDescription = "You really need to take care of yourself! Workout maybe!"
             }
             bmi >= 30.0 -> {
                 bmiLabel = "Obese Class"
-                bmiDescription = "OMG! You are in a very dangerous condition! Act now!"
+                bmiDescription = "You might be in a dangerous condition! Act now!"
             }
         }
 

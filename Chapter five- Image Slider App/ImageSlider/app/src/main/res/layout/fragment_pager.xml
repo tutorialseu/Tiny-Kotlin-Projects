@@ -11,6 +11,6 @@
         android:layout_height="300dp"
         android:scaleType="centerCrop"
         android:layout_gravity="center"
-        android:contentDescription="nature"/>
+        android:contentDescription="@string/slider_iv"/>
 
 </FrameLayout>
