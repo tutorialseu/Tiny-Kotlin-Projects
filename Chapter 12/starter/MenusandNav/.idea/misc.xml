@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_account.xml" value="0.121" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_add_alt_1_24.xml" value="0.1025" />
+        <entry key="app/src/main/res/drawable/ic_browse_green.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_help_green.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_microphone.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_music_player_green.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

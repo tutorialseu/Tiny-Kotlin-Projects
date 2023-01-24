@@ -4,6 +4,7 @@
     package="eu.tutorials.wishlistapp">
 
     <application
+        android:name=".WishListApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"

@@ -9,6 +9,7 @@
         android:targetSdkVersion="32" />
 
     <application
+        android:name="eu.tutorials.wishlistapp.WishListApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -37,6 +38,11 @@
         <activity
             android:name="androidx.activity.ComponentActivity"
             android:exported="true" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

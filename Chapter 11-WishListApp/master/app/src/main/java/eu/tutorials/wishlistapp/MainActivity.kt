@@ -10,9 +10,11 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import eu.tutorials.wishlistapp.ui.HomeView
 import eu.tutorials.wishlistapp.ui.Navigation
+import eu.tutorials.wishlistapp.ui.WishViewModel
 import eu.tutorials.wishlistapp.ui.theme.WishListAppTheme
 
 class MainActivity : ComponentActivity() {

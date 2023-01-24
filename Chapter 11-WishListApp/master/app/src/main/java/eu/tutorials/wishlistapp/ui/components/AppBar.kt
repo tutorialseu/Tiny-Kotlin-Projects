@@ -18,14 +18,13 @@ import eu.tutorials.wishlistapp.R
 
 @Composable
 fun AppBarView(
-    title: String
-) {
+    title: String,
+    onBackNavClicked:() ->Unit = {}) {
 
     val navigationIcon: (@Composable () -> Unit)? =
-        if (!title.contains("Wish List")) {
+        if (!title.contains("WishList")) {
             {
-                //Check if title is [Wish List] hide icon else show icon
-                IconButton(onClick = { }) {
+                IconButton(onClick = {onBackNavClicked()}) {
                     Icon(
                         imageVector = Icons.Filled.ArrowBack,
                         tint = Color.White,
@@ -51,10 +50,4 @@ fun AppBarView(
         backgroundColor = colorResource(id = R.color.app_bar_color),
         navigationIcon = navigationIcon
     )
-}
-
-@Preview
-@Composable
-fun AppBarViewPrev() {
-    AppBarView(title = "Preview")
 }

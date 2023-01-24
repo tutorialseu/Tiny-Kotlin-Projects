@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "eu.tutorials.wishlistapp-mergeDebugResources-44:/values-gl/values-gl.xml",
+            "outputFile": "eu.tutorials.wishlistapp-mergeDebugResources-48:/values-gl/values-gl.xml",
             "map": [
                 {
                     "source": "/Users/user/.gradle/caches/transforms-3/078f69ff13d584175d673beb365cef10/transformed/ui-1.1.0-beta01/res/values-gl/values-gl.xml",
