@@ -6,11 +6,15 @@ A UI based project that contains common menus and popups used in android [Tutori
     <td>
 
 <img width="35%" src="screenshots/home.png">
+   </td>
 
+   <td>
 <img width="35%" src="screenshots/browse.png">
+   </td>
 
+   <td>
 <img width="35%" src="screenshots/playlist.png">
-</td>
+   </td>
 
   </tr>
 
@@ -18,9 +22,13 @@ A UI based project that contains common menus and popups used in android [Tutori
     <td>
 
 <img width="35%" src="screenshots/drawer.png">
+   </td>
 
+   <td>
 <img width="35%" src="screenshots/dialog.png">
+  </td>
 
+  <td>
 <img width="35%" src="screenshots/bs.png">
 </td>
 
