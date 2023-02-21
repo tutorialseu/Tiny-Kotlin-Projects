@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Todo : create a dedicated file for the file provider path where the images
+     from the gallery should be stored
+ -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="pictures" path="Android/data/eu.tutorials.tour/files/Pictures" />
+</paths>

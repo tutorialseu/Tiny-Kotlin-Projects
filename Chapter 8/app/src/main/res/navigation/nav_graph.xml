@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/LoginFragment">
+
+    <fragment
+        android:id="@+id/LoginFragment"
+        android:name="eu.tutorials.tour.ui.LoginFragment"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/action_LoginFragment_to_TourFragment"
+            app:destination="@id/TourFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/TourFragment"
+        android:name="eu.tutorials.tour.ui.TourFragment"
+        tools:layout="@layout/fragment_tour">
+
+        <action
+            android:id="@+id/action_TourFragment_to_addEditTour"
+            app:destination="@id/addEditTour" />
+    </fragment>
+    <fragment
+        android:id="@+id/addEditTour"
+        android:name="eu.tutorials.tour.ui.AddEditTour"
+        tools:layout="@layout/fragment_add_edit_tour" />
+</navigation>
